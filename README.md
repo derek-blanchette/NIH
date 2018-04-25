@@ -1,5 +1,5 @@
 # NIH
-Materials concerning the National Institutes of Health.
+Materials concerning the National Institutes of Health, including several common funding mechanisms.
 
 ### Various Funding Elements
 * Catalog of funding awards: https://report.nih.gov/award/index.cfm
