@@ -1,6 +1,5 @@
-# NIH - Funding Mechanisms
+## NIH - Funding Mechanisms & Funding History
 
-### Funding Elements
 * Catalog of funding awards: https://report.nih.gov/award/index.cfm
 * The R01 https://grants.nih.gov/grants/funding/r01.htm
 * The R21 https://grants.nih.gov/grants/funding/r21.htm
