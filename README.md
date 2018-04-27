@@ -1,9 +1,8 @@
-# NIH
-Materials concerning the National Institutes of Health, including several common funding mechanisms.
+# NIH - Funding Mechanisms
+National Institutes of Health: common funding mechanisms.
 
-### Various Funding Elements
+### Funding Elements
 * Catalog of funding awards: https://report.nih.gov/award/index.cfm
-
 * The R01 https://grants.nih.gov/grants/funding/r01.htm
 * The R21 https://grants.nih.gov/grants/funding/r21.htm
 * The U01 https://clinicalcenter.nih.gov/translational-research-resources/U01/index.html
