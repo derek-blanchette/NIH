@@ -14,6 +14,7 @@
 * Projects of the NCI Consortium. https://epi.grants.cancer.gov/Consortia/cohort_projects.html
 * Research Funding Opportunities. https://www.cancer.gov/grants-training/grants-funding/funding-opportunities
 * NCI Outstandng Investigator Award. https://www.cancer.gov/grants-training/grants-funding/funding-opportunities/oia
+* SEER Training Modules. https://training.seer.cancer.gov/
 * SEER Incidence Database - SEER Data & Software. https://seer.cancer.gov/data/
 * HINTS - Health Information National Trends Survey. https://hints.cancer.gov/data/default.aspx
 * NCI Cancer Research Data Ecosystem. https://www.cancer.gov/research/nci-role/bioinformatics/cancer-research-data-ecosystem-infographic
