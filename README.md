@@ -15,12 +15,11 @@
 * Research Funding Opportunities. https://www.cancer.gov/grants-training/grants-funding/funding-opportunities
 * NCI Outstandng Investigator Award. https://www.cancer.gov/grants-training/grants-funding/funding-opportunities/oia
 * SEER Incidence Database - SEER Data & Software. https://seer.cancer.gov/data/
-
+* HINTS - Health Information National Trends Survey. https://hints.cancer.gov/data/default.aspx
+* NCI Cancer Research Data Ecosystem. https://www.cancer.gov/research/nci-role/bioinformatics/cancer-research-data-ecosystem-infographic
 
 ## NCBI - National Center for Biotechnology Information
 * NCBI https://www.ncbi.nlm.nih.gov/
 
 ## 15 Year Anniversary of the Human Genome Project
 * Fifteen ways genomics is now influencing our world https://www.genome.gov/27570876/15-for-15-celebration/
-* HINTS - Health Information National Trends Survey. https://hints.cancer.gov/data/default.aspx
-* NCI Cancer Research Data Ecosystem. https://www.cancer.gov/research/nci-role/bioinformatics/cancer-research-data-ecosystem-infographic
